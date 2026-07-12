@@ -112,6 +112,22 @@ v1.0.0
 
 下载地址：[https://github.com/learncodesmart/AIPC-UP/releases](https://github.com/learncodesmart/AIPC-UP/releases)
 
+## 🙏 致谢与开源生态
+
+AIPC UP 的能力建设受益于以下 AI 工具生态与开源项目：
+
+| 项目 | 说明 |
+| --- | --- |
+| [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic 官方 CLI |
+| [Cursor CLI](https://docs.cursor.com/en/cli/overview) | Cursor 官方 CLI |
+| [Codex](https://developers.openai.com/codex) | OpenAI Codex |
+| [Gemini-CLI](https://geminicli.com/) | Google Gemini CLI |
+| [React](https://react.dev/) | 用户界面库 |
+| [Vite](https://vitejs.dev/) | 前端构建工具和开发服务器 |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS 框架 |
+| [CodeMirror](https://codemirror.net/) | 高级代码编辑器 |
+| [TaskMaster AI](https://github.com/eyaltoledano/claude-task-master) | 可选的 AI 项目管理与任务规划能力 |
+
 ## 🔗 相关链接
 
 - 产品官网：[https://huiai.io/product/](https://huiai.io/product/)
