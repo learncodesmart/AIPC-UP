@@ -114,19 +114,14 @@ v1.0.0
 
 ## 🙏 致谢与开源生态
 
-AIPC UP 的能力建设受益于以下 AI 工具生态与开源项目：
+AIPC UP 的部分设计受以下开源项目启发，感谢这些项目及其贡献者：
 
 | 项目 | 说明 |
 | --- | --- |
-| [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic 官方 CLI |
-| [Cursor CLI](https://docs.cursor.com/en/cli/overview) | Cursor 官方 CLI |
-| [Codex](https://developers.openai.com/codex) | OpenAI Codex |
-| [Gemini-CLI](https://geminicli.com/) | Google Gemini CLI |
-| [React](https://react.dev/) | 用户界面库 |
-| [Vite](https://vitejs.dev/) | 前端构建工具和开发服务器 |
-| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS 框架 |
-| [CodeMirror](https://codemirror.net/) | 高级代码编辑器 |
-| [TaskMaster AI](https://github.com/eyaltoledano/claude-task-master) | 可选的 AI 项目管理与任务规划能力 |
+| [CloudCLI](https://github.com/siteboon/claudecodeui) | 面向 AI 编程代理的 Web / Mobile UI |
+| [cc switch cli](https://github.com/SaladDay/cc-switch-cli) | Claude Code、Codex、Gemini CLI 等 AI 编程工具的统一切换与管理 CLI |
+| [avibe-os](https://github.com/avibe-bot/avibe) | 本地优先的 Agent OS，让 AI 代理运行在自己的电脑上 |
+| [frp](https://github.com/fatedier/frp) | 快速反向代理与内网穿透工具 |
 
 ## 🔗 相关链接
 
