@@ -112,6 +112,22 @@ v1.0.0
 
 Download: [https://github.com/learncodesmart/AIPC-UP/releases](https://github.com/learncodesmart/AIPC-UP/releases)
 
+## 🙏 Acknowledgments
+
+AIPC UP benefits from the following AI tool ecosystems and open-source projects:
+
+| Project | Description |
+| --- | --- |
+| [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic's official CLI |
+| [Cursor CLI](https://docs.cursor.com/en/cli/overview) | Cursor's official CLI |
+| [Codex](https://developers.openai.com/codex) | OpenAI Codex |
+| [Gemini-CLI](https://geminicli.com/) | Google Gemini CLI |
+| [React](https://react.dev/) | User interface library |
+| [Vite](https://vitejs.dev/) | Frontend build tool and dev server |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework |
+| [CodeMirror](https://codemirror.net/) | Advanced code editor |
+| [TaskMaster AI](https://github.com/eyaltoledano/claude-task-master) | Optional AI-powered project management and task planning |
+
 ## 🔗 Links
 
 - Product page: [https://huiai.io/product/](https://huiai.io/product/)
