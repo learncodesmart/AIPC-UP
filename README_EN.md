@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/readme-hero.svg" alt="AIPC UP - AI computer workbench" width="100%" />
+  <img src="./assets/readme-hero.svg" alt="AIPC UP" width="100%" />
 </p>
 
 <h1 align="center">AIPC UP</h1>
