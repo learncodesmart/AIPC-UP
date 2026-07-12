@@ -114,19 +114,14 @@ Download: [https://github.com/learncodesmart/AIPC-UP/releases](https://github.co
 
 ## 🙏 Acknowledgments
 
-AIPC UP benefits from the following AI tool ecosystems and open-source projects:
+Parts of AIPC UP are inspired by the following open-source projects. Thanks to their contributors:
 
 | Project | Description |
 | --- | --- |
-| [Claude Code](https://docs.anthropic.com/en/docs/claude-code) | Anthropic's official CLI |
-| [Cursor CLI](https://docs.cursor.com/en/cli/overview) | Cursor's official CLI |
-| [Codex](https://developers.openai.com/codex) | OpenAI Codex |
-| [Gemini-CLI](https://geminicli.com/) | Google Gemini CLI |
-| [React](https://react.dev/) | User interface library |
-| [Vite](https://vitejs.dev/) | Frontend build tool and dev server |
-| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework |
-| [CodeMirror](https://codemirror.net/) | Advanced code editor |
-| [TaskMaster AI](https://github.com/eyaltoledano/claude-task-master) | Optional AI-powered project management and task planning |
+| [CloudCLI](https://github.com/siteboon/claudecodeui) | Web and mobile UI for AI coding agents |
+| [cc switch cli](https://github.com/SaladDay/cc-switch-cli) | Unified switching and management CLI for Claude Code, Codex, Gemini CLI, and related AI coding tools |
+| [avibe-os](https://github.com/avibe-bot/avibe) | Local-first Agent OS that keeps AI agents running on your own computer |
+| [frp](https://github.com/fatedier/frp) | Fast reverse proxy and intranet tunneling tool |
 
 ## 🔗 Links
 
