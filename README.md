@@ -1,11 +1,3 @@
-<p align="right">
-  <strong>中文</strong> · <a href="./README_EN.md">English</a>
-</p>
-
-<p align="center">
-  <img src="./assets/readme-hero.svg" alt="AIPC UP" width="100%" />
-</p>
-
 <h1 align="center">AIPC UP</h1>
 
 <p align="center">
