@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README.md">中文</a> · <strong>English</strong>
+</p>
+
 <h1 align="center">AIPC UP</h1>
 
 <p align="center">
