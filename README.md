@@ -98,7 +98,7 @@ AIPC UP 可以执行真实的电脑操作，因此请谨慎授权并确认关键
 
 ## 📦 本仓库用途
 
-本仓库用于发布 AIPC UP 的加密 Windows 安装包。
+本仓库用于发布 AIPC UP 的 Windows 安装包。
 
 ```text
 AIPC UP Setup <version>.exe
