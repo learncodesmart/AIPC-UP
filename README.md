@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>中文</strong> · <a href="./README_EN.md">English</a>
+</p>
+
 <p align="center">
   <img src="./assets/readme-hero.svg" alt="AIPC UP - AI computer workbench" width="100%" />
 </p>
@@ -17,6 +21,7 @@
   </a>
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows-2563EB?style=for-the-badge&logo=windows11&logoColor=white">
   <img alt="Version" src="https://img.shields.io/badge/Version-v1.0.0-10B981?style=for-the-badge">
+  <img alt="Languages" src="https://img.shields.io/badge/README-中文%20%7C%20English-7C3AED?style=for-the-badge">
 </p>
 
 <p align="center">
