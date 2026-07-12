@@ -54,7 +54,7 @@ It is designed for users who want AI to participate in real computer work, espec
 | --- | --- |
 | 🤖 Multiple AI cores | Connect Claude, Codex, OpenCode, and custom model endpoints/API keys |
 | 🗂 Project workbench | Manage projects, files, sessions, plans, and execution results in one place |
-| 🧑‍💻 AI coding | Read projects, analyze code, edit files, run commands, and verify results |
+| 💻 AI coding | Read projects, analyze code, edit files, run commands, and verify results |
 | 🌐 Browser automation | Click, type, capture screenshots, collect information, and process web pages |
 | 🖥 Desktop automation | Control mouse, keyboard, and local windows after authorization |
 | 🎙 Voice tasks | Describe tasks by text or voice, with Chinese/English voice switching support |
