@@ -9,7 +9,7 @@
 <h1 align="center">AIPC UP</h1>
 
 <p align="center">
-  <strong>把普通 Windows 电脑升级成可以执行任务的 AI 工作台</strong>
+  <strong>让普通电脑进化成AI电脑</strong>
 </p>
 
 <p align="center">
