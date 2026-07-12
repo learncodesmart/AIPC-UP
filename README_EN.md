@@ -9,7 +9,7 @@
 <h1 align="center">AIPC UP</h1>
 
 <p align="center">
-  <strong>Upgrade an ordinary Windows PC into an AI workbench that can execute tasks</strong>
+  <strong>Evolve an ordinary computer into an AI computer</strong>
 </p>
 
 <p align="center">
