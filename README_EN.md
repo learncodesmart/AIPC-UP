@@ -98,7 +98,7 @@ AIPC UP can perform real computer operations, so please authorize carefully and 
 
 ## 📦 Repository Purpose
 
-This repository publishes the encrypted Windows installer for AIPC UP.
+This repository publishes the Windows installer for AIPC UP.
 
 ```text
 AIPC UP Setup <version>.exe
