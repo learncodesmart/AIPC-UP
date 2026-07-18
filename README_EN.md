@@ -2,10 +2,12 @@
   <a href="./README.md">中文</a> · <strong>English</strong>
 </p>
 
-<h1 align="center">AIPC UP</h1>
+<p align="center">
+  <img src="./assets/logo-512.png" alt="AIPC UP" width="128">
+</p>
 
 <p align="center">
-  <strong>Evolve an ordinary computer into an AI computer</strong>
+  <strong>AIPC UP turns ordinary computers into AI computers</strong>
 </p>
 
 <p align="center">
