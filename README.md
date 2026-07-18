@@ -40,10 +40,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/readme-hero.svg" alt="AIPC UP Overview" width="920">
-</p>
-
-<p align="center">
   <img alt="Claude" src="https://img.shields.io/badge/Claude-AI%20Core-1F2937?style=flat-square">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-AI%20Core-111827?style=flat-square">
   <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-AI%20Core-0F172A?style=flat-square">
