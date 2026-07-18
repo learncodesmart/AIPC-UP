@@ -27,6 +27,8 @@
   ·
   <a href="https://huiai.io/product/">查看官网</a>
   ·
+  <a href="https://huiai.io/aipc-up/docs">帮助文档</a>
+  ·
   <a href="https://github.com/learncodesmart/AIPC-UP/releases">历史版本</a>
 </p>
 
