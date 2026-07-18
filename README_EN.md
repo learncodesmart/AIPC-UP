@@ -23,13 +23,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/learncodesmart/AIPC-UP/releases/latest"><strong>Download Now</strong></a>
+  <a href="https://github.com/learncodesmart/AIPC-UP/releases/latest"><strong>📥 Download Now</strong></a>
   ·
-  <a href="https://huiai.io/product/">Product Page</a>
+  <a href="https://huiai.io/product/">🌐 Product Page</a>
   ·
-  <a href="https://huiai.io/aipc-up/docs">Help Docs</a>
+  <a href="https://huiai.io/aipc-up/docs">📖 Help Docs</a>
   ·
-  <a href="https://github.com/learncodesmart/AIPC-UP/releases">Release History</a>
+  <a href="https://github.com/learncodesmart/AIPC-UP/releases">📦 Release History</a>
 </p>
 
 ---
