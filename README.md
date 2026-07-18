@@ -6,8 +6,6 @@
   <img src="./assets/logo-512.png" alt="AIPC UP" width="112">
 </p>
 
-<h1 align="center">AIPC UP</h1>
-
 <p align="center">
   <strong>AIPC UP 让普通电脑，进化为 AI 电脑</strong>
 </p>
