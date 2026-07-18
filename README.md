@@ -2,10 +2,12 @@
   <strong>中文</strong> · <a href="./README_EN.md">English</a>
 </p>
 
-<h1 align="center">AIPC UP</h1>
+<p align="center">
+  <img src="./assets/logo-512.png" alt="AIPC UP" width="128">
+</p>
 
 <p align="center">
-  <strong>让普通电脑进化成AI电脑</strong>
+  <strong>AIPC UP让普通电脑，进化为AI电脑</strong>
 </p>
 
 <p align="center">
