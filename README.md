@@ -43,8 +43,7 @@
   <img alt="Claude" src="https://img.shields.io/badge/Claude-AI%20Core-1F2937?style=flat-square">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-AI%20Core-111827?style=flat-square">
   <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-AI%20Core-0F172A?style=flat-square">
-  <img alt="Grok Build" src="https://img.shields.io/badge/Grok%20Build-AI%20Core-000000?style=flat-square">
-  <img alt="Local First" src="https://img.shields.io/badge/Local--First-优先本地-059669?style=flat-square">
+    <img alt="Local First" src="https://img.shields.io/badge/Local--First-优先本地-059669?style=flat-square">
 </p>
 
 ---
@@ -84,7 +83,7 @@
   <tr>
     <td width="50%">
       <h3>🤖 多 AI 核心</h3>
-      连接 <b>Claude</b>、<b>Codex</b>、<b>OpenCode</b>、<b>Grok Build</b><br>
+      连接 <b>Claude</b>、<b>Codex</b>、<b>OpenCode</b><br>
       支持慧AI 令牌，或自定义 Base URL / API Key
     </td>
     <td width="50%">
