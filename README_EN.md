@@ -43,8 +43,7 @@
   <img alt="Claude" src="https://img.shields.io/badge/Claude-AI%20Core-1F2937?style=flat-square">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-AI%20Core-111827?style=flat-square">
   <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-AI%20Core-0F172A?style=flat-square">
-  <img alt="Grok Build" src="https://img.shields.io/badge/Grok%20Build-AI%20Core-000000?style=flat-square">
-  <img alt="Local First" src="https://img.shields.io/badge/Local--First-Default-059669?style=flat-square">
+    <img alt="Local First" src="https://img.shields.io/badge/Local--First-Default-059669?style=flat-square">
 </p>
 
 ---
@@ -84,7 +83,7 @@ Projects and tool execution stay on your machine by default. When a cloud model 
   <tr>
     <td width="50%">
       <h3>🤖 Multiple AI Cores</h3>
-      Connect <b>Claude</b>, <b>Codex</b>, <b>OpenCode</b>, and <b>Grok Build</b><br>
+      Connect <b>Claude</b>, <b>Codex</b>, <b>OpenCode</b><br>
       Use HuiAI token or custom Base URL / API Key
     </td>
     <td width="50%">
