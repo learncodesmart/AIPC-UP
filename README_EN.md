@@ -182,7 +182,7 @@ Click **Test Connection** to ensure connectivity.
 
 ### Step 3: Run Your First Local Task
 1. Open or select a folder in the workspace panel (use a non-critical directory for testing).
-2. Choose your preferred AI core or assistant (such as **Claude**).
+2. Choose your preferred AI core or assistant (such as **Desktop Automation** or **Aion CLI**).
 3. Send the following prompt:
 
 ```text
