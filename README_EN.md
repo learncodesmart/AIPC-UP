@@ -3,16 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="./assets/logo-512.png" alt="AIPC UP" width="112">
+  <img src="./assets/logo-512.png" alt="AIPC UP Logo" width="112">
 </p>
 
 <p align="center">
-  <strong>AIPC UP turns ordinary computers into AI computers</strong>
+  <strong>One Desktop. Your AI Agents, Actually Collaborating.</strong><br>
+  <em>Turn Your PC into a True AI PC</em>
 </p>
 
 <p align="center">
-  A <strong>local AI workbench</strong> for Windows<br>
-  Read files, write code, control browser/desktop apps, and collaborate remotely with natural language
+  A <strong>Local-First AI Agent Desktop Workspace</strong> for Windows.<br>
+  Solo tasks, multi-agent teamwork, desktop & browser automation, full-disk file management, and 24/7 remote scheduling.
 </p>
 
 <p align="center">
@@ -22,58 +23,64 @@
   <a href="https://huiai.io/product/">
     <img alt="Product" src="https://img.shields.io/badge/Product-huiai.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
-  <a href="https://huiai.io/aipc-up/docs/">
-    <img alt="Docs" src="https://img.shields.io/badge/Docs-Help%20Center-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white">
+  <a href="https://huiai.io/aipc-up/docs/en/">
+    <img alt="Docs" src="https://img.shields.io/badge/Docs-Documentation-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows-2563EB?style=for-the-badge&logo=windows11&logoColor=white">
-  <img alt="Version" src="https://img.shields.io/badge/Version-v1.0.0-10B981?style=for-the-badge">
+  <a href="https://github.com/learncodesmart/AIPC-UP/releases">
+    <img alt="Version" src="https://img.shields.io/badge/Version-v1.0.1-10B981?style=for-the-badge">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/learncodesmart/AIPC-UP/releases/latest"><strong>📥 Download Now</strong></a>
   ·
-  <a href="https://huiai.io/product/">🌐 Product Page</a>
+  <a href="https://huiai.io/product/">🌐 Official Site</a>
   ·
-  <a href="https://huiai.io/aipc-up/docs/">📖 Help Docs</a>
+  <a href="https://huiai.io/aipc-up/docs/en/">📖 Documentation</a>
   ·
-  <a href="https://github.com/learncodesmart/AIPC-UP/releases">📦 Release History</a>
+  <a href="https://github.com/learncodesmart/AIPC-UP/releases">📦 Releases</a>
 </p>
 
 <p align="center">
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-AI%20Core-1F2937?style=flat-square">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude%20Code-AI%20Core-1F2937?style=flat-square">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-AI%20Core-111827?style=flat-square">
   <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-AI%20Core-0F172A?style=flat-square">
-    <img alt="Local First" src="https://img.shields.io/badge/Local--First-Default-059669?style=flat-square">
+  <img alt="Gemini CLI" src="https://img.shields.io/badge/Gemini%20CLI-AI%20Core-2563EB?style=flat-square">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-Extensible-7C3AED?style=flat-square">
+  <img alt="Local First" src="https://img.shields.io/badge/Local--First-Privacy-059669?style=flat-square">
 </p>
 
 ---
 
-## Contents
+## 📑 Table of Contents
 
-- [What is AIPC UP](#-what-is-aipc-up)
-- [Core Capabilities](#-core-capabilities)
-- [What You Can Do](#-what-you-can-do)
-- [First Conversation in 5 Minutes](#-first-conversation-in-5-minutes)
-- [Three Key Terms](#-three-key-terms)
-- [Safety & Local-First](#-safety--local-first)
-- [Download](#-download)
-- [Docs Navigation](#-docs-navigation)
-- [Acknowledgments](#-acknowledgments)
+- [✨ What is AIPC UP?](#-what-is-aipc-up)
+- [🧠 Core Capabilities](#-core-capabilities)
+- [🎯 Use Cases & Quick Lookup](#-use-cases--quick-lookup)
+- [⚡ 5-Minute Quick Start](#-5-minute-quick-start)
+- [🔑 Key Concepts at a Glance](#-key-concepts-at-a-glance)
+- [🛡 Local-First Architecture & Safety](#-local-first-architecture--safety)
+- [🚀 Download & Installation](#-download--installation)
+- [📚 Documentation Directory](#-documentation-directory)
+- [🙏 Acknowledgments](#-acknowledgments)
+- [🔗 Related Links](#-related-links)
 
 ---
 
-## ✨ What is AIPC UP
+## ✨ What is AIPC UP?
 
-**AIPC UP** is more than a chat window. It is a **local AI workbench** installed on Windows.
+**AIPC UP** is not just another conversational chat window. It is a **local-first AI Agent desktop workspace** deeply integrated into the Windows operating system.
 
-With your authorization, it can:
+It allows AI Agents to live directly on your PC. Beyond understanding natural language and real-time voice dictation, it operates your computer just like a skilled human assistant within the boundaries of your authorization:
 
-- Read files, organize materials, edit code, and run commands
-- Operate browsers and desktop apps when needed
-- Access the local workbench remotely from a phone or another computer
-- Send and receive tasks through WeChat, Telegram, Feishu, and similar channels
+- 👥 **Multi-Agent Teamwork**: Group multiple specialized AI Agents (architecture, coding, UI design, testing) to collaborate concurrently on complex projects.
+- 🖥 **Full Desktop & Browser Automation**: Autonomously interact with desktop software, automate web scraping, form filling, and cross-application data pipelines.
+- 🗂 **Local File & Project Ownership**: Directly inspect project code, make modifications, run terminal commands, and view rich real-time previews.
+- ⏰ **24/7 Always-On & Scheduled Tasks**: Schedule automated workflows to summarize daily reports, monitor metrics, or execute background routines around the clock.
+- 📱 **Secure Remote Dispatch**: Command your desktop workspace on the go via mobile browsers, tablets, or social chat channels (WeChat, Feishu/Lark, Telegram).
 
-Projects and tool execution stay on your machine by default. When a cloud model is used, conversation context required for the task is sent to the service you choose. See [Local-first](https://huiai.io/aipc-up/docs/privacy/local-first/).
+All project files and runtime environments **remain strictly on your local machine by default**, ensuring maximum privacy and data sovereignty.
 
 ---
 
@@ -82,185 +89,177 @@ Projects and tool execution stay on your machine by default. When a cloud model 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 Multiple AI Cores</h3>
-      Connect <b>Claude</b>, <b>Codex</b>, <b>OpenCode</b><br>
-      Use HuiAI token or custom Base URL / API Key
+      <h3>👥 Multi-Agent Teamwork</h3>
+      Move beyond solo prompts. Orchestrate multi-agent teams with division of labor (e.g. Full-stack site redesign, App launches, Academic research, Story writing) working together in the same workspace.
     </td>
     <td width="50%">
-      <h3>🗂 Project Workbench</h3>
-      Manage projects, files, sessions, plans, and results<br>
-      Keep working against real local folders
+      <h3>🤖 Built-in Assistant Center</h3>
+      Out-of-the-box domain assistants: <b>Morph PPT Creator</b>, <b>Excel Calculator</b>, <b>Word Document Writer</b>, <b>UI/UX Pro Max</b>, <b>Academic Paper Assistant</b>, and more.
     </td>
   </tr>
   <tr>
     <td>
-      <h3>💻 AI Coding</h3>
-      Read projects, analyze code, edit files<br>
-      Run commands and verify outcomes
+      <h3>⚡ Multi-Engine AI Cores & MCP</h3>
+      Deeply integrates <b>Claude (Claude Code)</b>, <b>Codex</b>, <b>OpenCode</b>, and <b>Gemini CLI</b>; seamless integration with the <b>Model Context Protocol (MCP)</b> ecosystem.
     </td>
     <td>
-      <h3>🌐 Browser Automation</h3>
-      Click, type, screenshot, collect information<br>
-      Process web pages with less repetitive work
+      <h3>🖥 Desktop & Browser Automation</h3>
+      Native mouse/keyboard simulation and window management for local software; intelligent browser automation for web browsing, data scraping, and automated form submission.
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🖥 Desktop Automation</h3>
-      Control mouse, keyboard, and local windows after authorization<br>
-      Complete multi-app desktop workflows
+      <h3>📁 File Manager & Workspace (Git)</h3>
+      Full-disk file manager and project workspace. Review Git diffs, semantic codebase navigation, and live preview panels for HTML, images, and documents.
     </td>
     <td>
-      <h3>🎙 Voice Tasks</h3>
-      Describe tasks by text or voice<br>
-      Switch between Chinese and English voice input
+      <h3>⏰ Scheduled Tasks & 24/7 Operations</h3>
+      Standard Cron scheduling and automated background assistants. Wake up your PC to perform routine maintenance, generate analytics, and dispatch reports automatically.
     </td>
   </tr>
   <tr>
     <td>
-      <h3>📱 Remote Access</h3>
-      Check progress from a phone or another computer<br>
-      Continue conversations, receive results, or stop tasks
+      <h3>🎙 Real-Time Voice & Mini Window</h3>
+      Instant speech-to-text with bilingual (Chinese/English) support; always-on-top Mini Floating Window for effortless access from anywhere on your desktop.
     </td>
     <td>
-      <h3>💬 Multi-channel Collaboration</h3>
-      Connect WeChat, Feishu, Telegram, and more<br>
-      Send tasks from messaging tools to your local workbench
+      <h3>📱 Secure Remote Access & Channels</h3>
+      Built-in encrypted tunneling. Access your desktop workspace via WebUI on mobile/tablet, or dispatch tasks directly through <b>WeChat, Feishu, and Telegram</b>.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 What You Can Do
+## 🎯 Use Cases & Quick Lookup
 
-| Need | Where to start |
-| --- | --- |
-| 📄 Summarize docs / organize materials | Open a folder and describe the goal and output format |
-| 🧑‍💻 Read or edit code | Open a project, ask for read-only analysis first, then confirm edits |
-| 🌍 Operate web pages or local apps | Get basic chat working, then enable browser/desktop automation |
-| 📱 Continue tasks away from the PC | Enable remote access or messaging platforms as needed |
-
-> Focus on a successful first conversation. Voice, automation, remote access, and messaging can wait.
-
----
-
-## ⚡ First Conversation in 5 Minutes
-
-Full guide:
-[Install](https://huiai.io/aipc-up/docs/getting-started/install/) ·
-[First setup](https://huiai.io/aipc-up/docs/getting-started/first-setup/)
-
-### 1. Install and open the main window
-
-1. Open the [latest release](https://github.com/learncodesmart/AIPC-UP/releases/latest)
-2. Download `AIPC UP Setup <version>.exe` (not the Source code archive)
-3. Install and launch AIPC UP from the Start menu or desktop
-4. Create a **local account** on first launch (used later for remote login; **not** a HuiAI account)
-
-### 2. Complete required configuration
-
-Open **Settings → Required Configuration** and choose one path:
-
-| Method | Best for | What to enter |
+| Your Goal / Scenario | Recommended Feature | Documentation |
 | --- | --- | --- |
-| **HuiAI (recommended for new users)** | Existing HuiAI account | [HuiAI login token](https://huiai.io/token/) |
-| **Custom** | Self-hosted / proxy / compatible providers | Base URL and API Key |
+| 🚀 **Install & Start First Chat** | Download Windows Installer → Configure Token → New Session | [Your First Chat](https://huiai.io/aipc-up/docs/en/getting-started/first-chat/) |
+| 📊 **Create PPTs, Spreadsheets & Documents** | Assistant Center (Morph PPT / Excel / Word Creator) | [Assistant Center](https://huiai.io/aipc-up/docs/en/ai/assistants/) |
+| 🧑‍💻 **Code Analysis & Automated Programming** | Workspace + Claude / Codex / OpenCode Agents | [Workspace and Git](https://huiai.io/aipc-up/docs/en/files/workspace/) |
+| 🌐 **Web Scraping & Form Automation** | Browser Automation | [Browser Automation](https://huiai.io/aipc-up/docs/en/automation/browser/) |
+| 🖱️ **Control Desktop Apps & Keyboard/Mouse** | Desktop Control (Windows native automation) | [Desktop Control](https://huiai.io/aipc-up/docs/en/automation/desktop/) |
+| 👥 **Complex Task Breakdown & Multi-Agent Teams** | Agent Teams | [Agent Teams](https://huiai.io/aipc-up/docs/en/team/overview/) |
+| ⏰ **Routine Checks & Automated Reports** | Scheduled Tasks (Cron Workflows) | [Scheduled Tasks](https://huiai.io/aipc-up/docs/en/tasks/scheduled/) |
+| 🎙 **Fast Voice Task Assignment** | Realtime Voice Input | [Realtime Voice Input](https://huiai.io/aipc-up/docs/en/chat/voice/) |
+| 📱 **Remote Mobile Access & Chat Integration** | WebUI Remote Access / WeChat / Feishu / Telegram | [Remote Access (WebUI)](https://huiai.io/aipc-up/docs/en/remote/webui/) |
+| 🖥 **Background Multi-Task Screen Monitoring** | Screen Wall (Remote Desktop Monitoring) | [Screen Wall](https://huiai.io/aipc-up/docs/en/remote/screen-wall/) |
 
-Save, then click **Check Connection** before continuing.
+*For the comprehensive task guide, check out [Capabilities at a Glance](https://huiai.io/aipc-up/docs/en/getting-started/capabilities/).*
 
-### 3. Open a safe test folder and try it
+---
 
-1. Choose a folder without passwords, customer data, or other sensitive content
-2. Select **Claude**; if it is not running, pick any assistant marked “Running”
-3. Create a session and send:
+## ⚡ 5-Minute Quick Start
+
+> 💡 Step-by-step documentation: [Install & Launch](https://huiai.io/aipc-up/docs/en/getting-started/install/) · [Required Setup](https://huiai.io/aipc-up/docs/en/getting-started/required-config/)
+
+### Step 1: Download and Install AIPC UP
+1. Visit the [GitHub Releases](https://github.com/learncodesmart/AIPC-UP/releases/latest) page and download `AIPC.UP.Setup.<version>.exe`.
+2. Run the installer and launch AIPC UP.
+3. On the first launch, create a **Local Account** (stored securely on your device for remote login verification).
+
+### Step 2: Configure Models and Credentials
+Navigate to **Settings → Required Setup**, and pick your preferred connection method:
+
+| Connection Mode | Best For | What to Provide |
+| :--- | :--- | :--- |
+| **HuiAI (Recommended)** | Users with a HuiAI account | [HuiAI Access Token](https://huiai.io/token/) |
+| **Custom / BYOK** | Custom relay / Direct provider APIs | Base URL, API Key, Model Name |
+
+Click **Test Connection** to ensure connectivity.
+
+### Step 3: Run Your First Local Task
+1. Open or select a folder in the workspace panel (use a non-critical directory for testing).
+2. Choose your preferred AI core or assistant (such as **Claude**).
+3. Send the following prompt:
 
 ```text
-Read this folder only. Summarize what is inside in three sentences. Do not modify any files.
+Inspect this folder in read-only mode and summarize what files it contains in three sentences. Do not modify any files.
 ```
 
-4. If a permission prompt appears, confirm the path, then allow read-only access  
-5. When the reply mentions real content from the folder, the basics are working
+4. When the permission dialog appears, verify the directory path and click **Allow**.
+5. Once the AI returns the folder summary, your local AI workspace is verified and ready for work!
 
 ---
 
-## 🔑 Three Key Terms
+## 🔑 Key Concepts at a Glance
 
-| Term | Meaning |
-| --- | --- |
-| **Project** | The local folder AI is currently allowed to work on |
-| **Session** | A continuous conversation focused on one task |
-| **Local account** | Username/password for remote workbench access, not a HuiAI account |
-
----
-
-## 🛡 Safety & Local-First
-
-AIPC UP can perform real computer operations. Authorize carefully and confirm critical actions.
-
-| Mechanism | Description |
-| --- | --- |
-| 🏠 Local-first | Projects, files, and runtime stay on your machine first |
-| ✅ Authorized access | Browser, desktop, and remote features require explicit permission |
-| 👁 Visible process | Inspect task status, execution steps, and operation history |
-| ⏯ Controllable | Pause, resume, or stop tasks |
-| ⚠️ Careful ops | Confirm account, payment, delete, commit, and publish actions first |
-
-More:
-[Local-first](https://huiai.io/aipc-up/docs/privacy/local-first/) ·
-[API keys & data flow](https://huiai.io/aipc-up/docs/privacy/api-keys/) ·
-[Troubleshooting](https://huiai.io/aipc-up/docs/advanced/troubleshooting/)
+| Concept | Explanation |
+| :--- | :--- |
+| **Project** | The local directory workspace where the AI agent is authorized to inspect and operate. |
+| **Session** | An isolated conversational context dedicated to a specific goal, with full history and export capabilities. |
+| **AI Core** | The underlying LLM engine driving the agent (Claude Code, Codex, OpenCode, Gemini CLI, etc.). |
+| **Team** | A collaborative group composed of multiple specialized AI agents working together in the same workspace. |
+| **Local Account** | Locally stored encrypted authentication credentials used for secure remote WebUI logins. |
 
 ---
 
-## 🚀 Download
+## 🛡 Local-First Architecture & Safety
 
-| Item | Link |
-| --- | --- |
-| 📥 Latest installer | [Download AIPC UP for Windows](https://github.com/learncodesmart/AIPC-UP/releases/latest) |
-| 🏷 Current version | [AIPC UP v1.0.0](https://github.com/learncodesmart/AIPC-UP/releases/tag/v1.0.0) |
-| 🌐 Product page | [huiai.io/product](https://huiai.io/product/) |
-| 📖 Help docs | [huiai.io/aipc-up/docs](https://huiai.io/aipc-up/docs/) |
+AIPC UP can perform real system operations. It adheres strictly to **local-first principles and the principle of least privilege**:
 
-This repository publishes the Windows installer:
+* 🏠 **Local-First Data Ownership**: Your codebases, documents, and environment files stay strictly on your local PC.
+* 🔐 **Granular Permission Control**: File edits, shell command execution, network requests, and mouse/keyboard controls require explicit user confirmation.
+* 👁 **Full Execution Transparency**: Tool calls, file diffs, and execution logs are displayed clearly in real time.
+* ⏯ **Instant Intervention**: Pause, stop, or rollback ongoing agent operations at any moment.
+
+*Learn more: [Data and Privacy](https://huiai.io/aipc-up/docs/en/security/privacy/) · [Tokens and Credentials](https://huiai.io/aipc-up/docs/en/security/tokens/)*
+
+---
+
+## 🚀 Download & Installation
+
+| Channel | Link | Notes |
+| :--- | :--- | :--- |
+| 📥 **Latest Windows Installer** | [GitHub Releases Latest](https://github.com/learncodesmart/AIPC-UP/releases/latest) | Official `.exe` installer |
+| 🏷 **Current Release** | [AIPC UP v1.0.1](https://github.com/learncodesmart/AIPC-UP/releases/tag/v1.0.1) | Includes latest multi-agent & automation features |
+| 🌐 **Official Product Page** | [huiai.io/product/](https://huiai.io/product/) | Explore product roadmap & features |
+| 📖 **Online Documentation** | [huiai.io/aipc-up/docs/en/](https://huiai.io/aipc-up/docs/en/) | Complete user manuals & guides |
+
+---
+
+## 📚 Documentation Directory
+
+The complete 10-section documentation suite is live:
 
 ```text
-AIPC UP Setup <version>.exe
+AIPC UP Documentation (https://huiai.io/aipc-up/docs/en/)
+├── 🚀 Get Started: Overview · Install & Launch · Required Setup · First Chat · Capabilities
+├── 🗺️ Interface & Shortcuts: Interface Tour · Shortcuts · Settings Map
+├── 💬 Chat & Everyday: Realtime Voice · Floating Mini Window · Sessions · Input Tips · Permissions
+├── 📁 Files & Projects: File Manager · Projects & Sessions · Workspace & Git · Preview Panel
+├── ⚡ Automation: Desktop Assistant · Browser Automation · Desktop Control
+├── 🤖 AI Cores & Tools: Assistant Center · Models & Providers · Skills · MCP Tools · Agents
+├── 👥 Teams and Tasks: Agent Teams · Scheduled Tasks
+├── 📱 Remote and Mobile: Remote Access (WebUI) · Mobile Access · Chat Channels · Screen Wall
+├── 🎨 Personalize & Security: Appearance · Desktop Features · Tokens · Privacy
+└── 💡 Maintenance & Support: FAQ · Troubleshooting · Updates · Contact & Support
 ```
-
----
-
-## 📚 Docs Navigation
-
-| Doc | Description |
-| --- | --- |
-| [Overview](https://huiai.io/aipc-up/docs/) | Product intro and 5-minute start |
-| [Install](https://huiai.io/aipc-up/docs/getting-started/install/) | Download, install, local account, main window |
-| [First setup](https://huiai.io/aipc-up/docs/getting-started/first-setup/) | HuiAI / custom config and first safe trial |
-| [Projects & sessions](https://huiai.io/aipc-up/docs/workbench/projects-sessions/) | Core workbench concepts |
-| [Browser automation](https://huiai.io/aipc-up/docs/automation/browser/) | Web page operations |
-| [Desktop automation](https://huiai.io/aipc-up/docs/automation/desktop/) | Local app operations |
-| [Remote access](https://huiai.io/aipc-up/docs/remote/access/) | Access the workbench from other devices |
-| [Communication platforms](https://huiai.io/aipc-up/docs/remote/communication-platform/) | WeChat / Feishu / Telegram entry points |
 
 ---
 
 ## 🙏 Acknowledgments
 
-Parts of AIPC UP are inspired by these open-source projects:
+AIPC UP is built upon the ingenuity and foundations of the open-source community. Special thanks to these exceptional projects and their contributors:
 
-| Project | Description |
-| --- | --- |
-| [CloudCLI](https://github.com/siteboon/claudecodeui) | Web and mobile UI for AI coding agents |
-| [cc switch cli](https://github.com/SaladDay/cc-switch-cli) | Unified CLI for Claude Code, Codex, Gemini CLI, and related tools |
-| [avibe-os](https://github.com/avibe-bot/avibe) | Local-first Agent OS |
-| [frp](https://github.com/fatedier/frp) | Fast reverse proxy and intranet tunneling |
+- [AionUi](https://github.com/aionui/aionui) - Excellent cross-platform AI desktop workspace foundation
+- [CloudCLI](https://github.com/siteboon/claudecodeui) - Modern Web / Mobile UI for AI coding agents
+- [cc switch cli](https://github.com/SaladDay/cc-switch-cli) - Multi-engine AI coding tool manager
+- [avibe-os](https://github.com/avibe-bot/avibe) - Local-first agent operating architecture
+- [frp](https://github.com/fatedier/frp) - Fast reverse proxy for secure tunneling
 
 ---
 
-## 🔗 Links
+## 🔗 Related Links
 
-- Product page: https://huiai.io/product/
-- Help docs: https://huiai.io/aipc-up/docs/
-- HuiAI token: https://huiai.io/token/
-- GitHub Releases: https://github.com/learncodesmart/AIPC-UP/releases
+- **Official Product Page**: [https://huiai.io/product/](https://huiai.io/product/)
+- **Documentation Center**: [https://huiai.io/aipc-up/docs/en/](https://huiai.io/aipc-up/docs/en/)
+- **HuiAI Token Center**: [https://huiai.io/token/](https://huiai.io/token/)
+- **GitHub Repository**: [https://github.com/learncodesmart/AIPC-UP](https://github.com/learncodesmart/AIPC-UP)
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ by the AIPC UP & 慧AI Team</sub>
+</p>

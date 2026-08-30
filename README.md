@@ -3,16 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="./assets/logo-512.png" alt="AIPC UP" width="112">
+  <img src="./assets/logo-512.png" alt="AIPC UP Logo" width="112">
 </p>
 
 <p align="center">
-  <strong>AIPC UP 让普通电脑，进化为 AI 电脑</strong>
+  <strong>一个桌面。你的 AI Agent 们，真的在协作。</strong><br>
+  <em>让普通电脑，进化为真正的 AI 电脑 (Turn Your PC into an AI PC)</em>
 </p>
 
 <p align="center">
-  安装在 Windows 上的<strong>本地 AI 工作台</strong><br>
-  用自然语言完成读文件、写代码、操作浏览器 / 桌面，以及远程任务协作
+  安装在 Windows 上的<strong>本地优先 AI 工作台</strong><br>
+  单兵作战、团队组队、桌面/浏览器自动化、全盘文件管理，以及 24/7 远程指挥调度
 </p>
 
 <p align="center">
@@ -26,54 +27,60 @@
     <img alt="Docs" src="https://img.shields.io/badge/Docs-帮助文档-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows-2563EB?style=for-the-badge&logo=windows11&logoColor=white">
-  <img alt="Version" src="https://img.shields.io/badge/Version-v1.0.0-10B981?style=for-the-badge">
+  <a href="https://github.com/learncodesmart/AIPC-UP/releases">
+    <img alt="Version" src="https://img.shields.io/badge/Version-v1.0.1-10B981?style=for-the-badge">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/learncodesmart/AIPC-UP/releases/latest"><strong>📥 立即下载</strong></a>
   ·
-  <a href="https://huiai.io/product/">🌐 查看官网</a>
+  <a href="https://huiai.io/product/">🌐 官方主页</a>
   ·
   <a href="https://huiai.io/aipc-up/docs/">📖 帮助文档</a>
   ·
-  <a href="https://github.com/learncodesmart/AIPC-UP/releases">📦 历史版本</a>
+  <a href="https://github.com/learncodesmart/AIPC-UP/releases">📦 版本发布</a>
 </p>
 
 <p align="center">
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-AI%20Core-1F2937?style=flat-square">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude%20Code-AI%20Core-1F2937?style=flat-square">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-AI%20Core-111827?style=flat-square">
   <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-AI%20Core-0F172A?style=flat-square">
-    <img alt="Local First" src="https://img.shields.io/badge/Local--First-优先本地-059669?style=flat-square">
+  <img alt="Gemini CLI" src="https://img.shields.io/badge/Gemini%20CLI-AI%20Core-2563EB?style=flat-square">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-Extensible-7C3AED?style=flat-square">
+  <img alt="Local First" src="https://img.shields.io/badge/Local--First-本地优先-059669?style=flat-square">
 </p>
 
 ---
 
-## 目录
+## 📑 目录
 
-- [AIPC UP 是什么](#-aipc-up-是什么)
-- [核心能力](#-核心能力)
-- [你可以这样用](#-你可以这样用)
-- [5 分钟完成第一次对话](#-5-分钟完成第一次对话)
-- [先记住三个词](#-先记住三个词)
-- [安全与本地优先](#-安全与本地优先)
-- [下载安装](#-下载安装)
-- [帮助文档导航](#-帮助文档导航)
-- [致谢](#-致谢)
+- [✨ AIPC UP 是什么](#-aipc-up-是什么)
+- [🧠 核心能力](#-核心能力)
+- [🎯 场景与能力速查](#-场景与能力速查)
+- [⚡ 5 分钟快速上手](#-5-分钟快速上手)
+- [🔑 核心概念速记](#-核心概念速记)
+- [🛡 本地优先与安全保障](#-本地优先与安全保障)
+- [🚀 下载与安装](#-下载与安装)
+- [📚 官方帮助文档导航](#-官方帮助文档导航)
+- [🙏 开源致谢](#-开源致谢)
+- [🔗 相关链接](#-相关链接)
 
 ---
 
 ## ✨ AIPC UP 是什么
 
-**AIPC UP** 不是普通聊天窗口，而是安装在 Windows 电脑上的**本地 AI 工作台**。
+**AIPC UP** 不是简单的模型聊天窗口，而是深度融合在 Windows 操作系统中的**本地 AI Agent 智能工作台**。
 
-在你授权的范围内，它可以：
+它让 AI 真正“住在”你的电脑里，不仅能听懂你的自然语言和语音输入，更能像专业人类助理一样，在你授权的范围内直接操作电脑完成复杂工作：
 
-- 读取文件、整理资料、修改代码、运行命令
-- 按需操作浏览器和桌面软件
-- 通过手机或其他电脑远程访问本机工作台
-- 通过微信、Telegram、飞书等通讯平台收发消息与下达任务
+- 👥 **多 Agent 组队协作**：让负责架构、写代码、做设计、写测试的多个 AI 智能体并行工作，共同推进任务。
+- 🖥 **桌面与浏览器双重自动化**：智能操作各类本地桌面应用与网页表单，跨软件搬运与整合数据。
+- 🗂 **本地项目与文件全盘掌控**：直接阅读项目代码、修改文件、执行命令，并自带富媒体实时预览面板。
+- ⏰ **全天候 24/7 常驻与定时任务**：设定定时工作流，自动在后台汇总日报、监控数据、处理常规任务。
+- 📱 **安全远程指挥**：随时随地通过手机浏览器、平板、或是微信 / 飞书 / Telegram 等通讯工具远程派活与验收。
 
-项目文件和工具执行默认留在本机；调用云端模型时，对话与完成任务所需的上下文会发往你选择的服务。详见帮助文档：[本地优先](https://huiai.io/aipc-up/docs/privacy/local-first/)。
+所有文件与运行环境**默认保留在你的本地电脑**，数据资产自主可控。
 
 ---
 
@@ -82,185 +89,177 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 多 AI 核心</h3>
-      连接 <b>Claude</b>、<b>Codex</b>、<b>OpenCode</b><br>
-      支持慧AI 令牌，或自定义 Base URL / API Key
+      <h3>👥 多智能体团队协作 (Multi-Agent Team)</h3>
+      告别单打独斗。支持单 Agent 与多 Agent 组队分工（如全栈开发、产品上线、学术研究、故事编写），多个智能体在同一工作区协同推进复杂任务。
     </td>
     <td width="50%">
-      <h3>🗂 项目工作台</h3>
-      统一管理项目、文件、会话、计划与执行结果<br>
-      围绕真实本地文件夹持续推进任务
+      <h3>🤖 内置专业助手中心 (Assistant Center)</h3>
+      开箱即用多种预设专家助手：<b>Morph PPT 制作</b>、<b>Excel 数据计算</b>、<b>Word 文档撰写</b>、<b>UI/UX Pro Max 设计</b>、<b>Academic Paper 论文助手</b>等。
     </td>
   </tr>
   <tr>
     <td>
-      <h3>💻 AI 编程</h3>
-      阅读项目、分析代码、修改文件<br>
-      执行命令并检查结果
+      <h3>⚡ 多 AI 引擎与 MCP 生态 (AI Cores & MCP)</h3>
+      深度集成 <b>Claude (Claude Code)</b>、<b>Codex</b>、<b>OpenCode</b>、<b>Gemini CLI</b> 等顶级 Agent 内核；无缝对接 <b>MCP (Model Context Protocol)</b> 工具扩展。
     </td>
     <td>
-      <h3>🌐 浏览器自动化</h3>
-      点击、输入、截图、收集信息<br>
-      整理网页内容，减少重复操作
+      <h3>🖥 桌面与浏览器自动化 (Full Automation)</h3>
+      原生模拟键盘鼠标操作与窗口定位，打通本地专业软件；支持智能操控网页、抓取资讯、提取表格与批量自动填表。
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🖥 桌面自动化</h3>
-      授权后控制鼠标、键盘和本地窗口<br>
-      完成需要多软件配合的桌面任务
+      <h3>📁 全盘文件管理器与项目工作台 (Files & Git)</h3>
+      内置独立文件管理器与项目面板，支持全盘文件浏览、代码语义分析、Git 变更审查，以及网页/图片/文档的富媒体实时预览。
     </td>
     <td>
-      <h3>🎙 语音任务</h3>
-      文字或语音描述任务<br>
-      支持中文 / 英文语音切换
+      <h3>⏰ 定时任务与 24/7 运行 (Scheduled Tasks)</h3>
+      支持标准 Cron 定时任务与全天候自动化助手。自动在后台定时唤醒电脑执行周期性维护、日报统计与数据抓取。
     </td>
   </tr>
   <tr>
     <td>
-      <h3>📱 远程访问</h3>
-      手机或另一台电脑查看进度<br>
-      继续对话、接收结果或停止任务
+      <h3>🎙 实时语音输入与悬浮窗 (Voice & Floating)</h3>
+      全局即时语音输入，支持中英文实时转写；提供置顶迷你悬浮窗（Mini Window），随手唤起，随时对话。
     </td>
     <td>
-      <h3>💬 多入口协作</h3>
-      接入微信、飞书、Telegram 等<br>
-      从通讯工具把任务交给本地工作台
+      <h3>📱 安全公网远程与多端协同 (Remote & Channels)</h3>
+      内置安全内网穿透技术。通过 WebUI 在手机/平板流畅操作桌面工作台，并支持通过<b>微信、飞书、Telegram</b>直接下发指令。
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 你可以这样用
+## 🎯 场景与能力速查
 
-| 你的需求 | 建议从哪里开始 |
-| --- | --- |
-| 📄 总结文档、整理资料 | 打开资料文件夹，在聊天中说明目标和输出格式 |
-| 🧑‍💻 阅读或修改代码 | 打开项目，先让 AI 只读分析，再确认修改 |
-| 🌍 操作网页或本地软件 | 基础对话成功后，再开浏览器或桌面自动化 |
-| 📱 不在电脑旁时继续指挥 | 按需开启远程访问或通讯平台 |
-
-> 第一次先做到**能对话**。语音、自动化、远程和通讯平台都可以稍后再开，不要挡住第一次成功。
-
----
-
-## ⚡ 5 分钟完成第一次对话
-
-完整步骤见帮助文档：
-[安装与启动](https://huiai.io/aipc-up/docs/getting-started/install/) ·
-[第一次配置](https://huiai.io/aipc-up/docs/getting-started/first-setup/)
-
-### 1. 安装并进入主窗口
-
-1. 打开 [最新版本](https://github.com/learncodesmart/AIPC-UP/releases/latest)
-2. 下载 `AIPC UP Setup <版本号>.exe`（不要下载 Source code 压缩包）
-3. 完成安装，从开始菜单或桌面启动
-4. 首次启动创建**本地账号**（用于以后远程登录，**不是**慧AI 账号）
-
-### 2. 完成必要配置
-
-打开 **设置 → 必要配置**，任选一种：
-
-| 配置方式 | 适合谁 | 需要填写 |
+| 你的目标 / 需求 | 推荐使用的功能与入口 | 对应帮助文档 |
 | --- | --- | --- |
-| **慧AI（推荐新用户）** | 已有慧AI 账号 | [慧AI 登录令牌](https://huiai.io/token/) |
-| **自定义** | 自建 / 中转 / 第三方兼容服务 | Base URL 与 API Key |
+| 🚀 **快速安装与开启第一次对话** | 下载 Windows 安装包 → 配置慧AI 令牌 → 新建会话 | [第一次对话](https://huiai.io/aipc-up/docs/getting-started/first-chat/) |
+| 📊 **做 PPT、算表格、写专业文档** | 内置助手中心（Morph PPT / Excel / Word Creator） | [助手中心](https://huiai.io/aipc-up/docs/ai/assistants/) |
+| 🧑‍💻 **读写项目代码与自动化编程** | 工作区 + Claude / Codex / OpenCode 编程 Agent | [项目与工作区](https://huiai.io/aipc-up/docs/files/workspace/) |
+| 🌐 **自动抓取网页、登录填表** | 浏览器自动化（Browser Automation） | [浏览器自动化](https://huiai.io/aipc-up/docs/automation/browser/) |
+| 🖱️ **操作本地软件、模拟键鼠** | 桌面键鼠自动化（Desktop Control） | [桌面自动化](https://huiai.io/aipc-up/docs/automation/desktop/) |
+| 👥 **复杂大任务拆解与多智能体分工** | 团队协作模式（Agent Teams） | [多智能体团队](https://huiai.io/aipc-up/docs/team/overview/) |
+| ⏰ **定时巡检、自动生成日报/周报** | 定时任务（Scheduled Tasks） | [定时任务](https://huiai.io/aipc-up/docs/tasks/scheduled/) |
+| 🎙 **语音快速安排任务** | 实时双语语音输入（Realtime Voice Input） | [实时语音听写](https://huiai.io/aipc-up/docs/chat/voice/) |
+| 📱 **手机远程查看进度或下发任务** | WebUI 远程访问 / 微信 / 飞书 / Telegram 渠道 | [WebUI 远程访问](https://huiai.io/aipc-up/docs/remote/webui/) |
+| 🖥 **后台多任务与屏幕状态监控** | 屏幕墙（Screen Wall 远程桌面监控） | [屏幕墙](https://huiai.io/aipc-up/docs/remote/screen-wall/) |
 
-保存后点击 **检查连接**，确认可用再继续。
+*更多完整场景对应请查阅官方：[能力速查表 (Capabilities at a Glance)](https://huiai.io/aipc-up/docs/getting-started/capabilities/)*
 
-### 3. 打开安全的测试文件夹并试跑
+---
 
-1. 选择一个不含密码、客户数据或其他敏感内容的文件夹
-2. 选择 **Claude**；若未运行，可选任一显示“运行中”的助手
-3. 新建会话，发送：
+## ⚡ 5 分钟快速上手
+
+> 💡 完整图文教程见帮助文档：[安装与启动](https://huiai.io/aipc-up/docs/getting-started/install/) · [必要配置](https://huiai.io/aipc-up/docs/getting-started/required-config/)
+
+### 步骤 1：下载并安装 AIPC UP
+1. 前往 [Releases 发布页面](https://github.com/learncodesmart/AIPC-UP/releases/latest) 下载最新的 Windows 安装包 `AIPC.UP.Setup.<version>.exe`。
+2. 双击运行安装程序，启动后进入主界面。
+3. 初次启动按提示创建**本地工作台账号**（仅保存在本机，用于后续手机或远程安全登录）。
+
+### 步骤 2：完成模型与令牌配置
+进入 **设置 (Settings) → 必要配置 (Required Setup)**，选择你的接入方式：
+
+| 接入方式 | 适用场景 | 需要提供的内容 |
+| :--- | :--- | :--- |
+| **慧AI 官方接入（推荐）** | 已有慧AI 账号，一键开箱即用 | [获取慧AI 登录令牌](https://huiai.io/token/) |
+| **自定义兼容服务** | 自建中转 / 官方原厂 API / 第三方兼容服务 | Base URL、API Key 与 Model 名称 |
+
+填写后点击 **检查连接 (Test Connection)**，确认连通成功。
+
+### 步骤 3：开启你的第一个本地任务
+1. 在左侧面板选择或创建一个项目文件夹（推荐先选用一个日常测试文件夹）。
+2. 选择要调用的助手或 AI 引擎（如 **Claude** 或 **内置助手**）。
+3. 在输入框中输入一段指令并发送：
 
 ```text
-只读查看这个文件夹，用三句话说明里面有什么。不要修改文件。
+请只读查看当前文件夹，用三句话概括里面包含哪些文件和主要内容。不要修改任何文件。
 ```
 
-4. 若出现读取权限请求：确认路径正确后，允许只读操作  
-5. 回复提到文件夹里的真实内容，即表示基础功能已经可用
+4. 当系统弹出授权提示时，确认路径无误并点击允许。
+5. 看到 AI 准确列出本地目录信息，即代表你的本地 AI 工作台已成功就绪！
 
 ---
 
-## 🔑 先记住三个词
+## 🔑 核心概念速记
 
-| 词 | 含义 |
-| --- | --- |
-| **项目** | AI 当前可以操作的本地文件夹 |
-| **会话** | 围绕一件事持续进行的一轮对话 |
-| **本地账号** | 远程打开工作台时使用的用户名和密码，不是慧AI 账号 |
-
----
-
-## 🛡 安全与本地优先
-
-AIPC UP 可以执行真实的电脑操作，请谨慎授权并确认关键任务。
-
-| 机制 | 说明 |
-| --- | --- |
-| 🏠 本地优先 | 项目、文件与运行环境优先保留在你的本地电脑 |
-| ✅ 授权访问 | 浏览器、桌面与远程能力需要按需授权 |
-| 👁 过程可见 | 可查看任务状态、执行过程与操作记录 |
-| ⏯ 可控执行 | 任务可以暂停、继续或停止 |
-| ⚠️ 谨慎操作 | 涉及账号、支付、删除、提交、发布等操作前请先确认 |
-
-更多说明：
-[本地优先](https://huiai.io/aipc-up/docs/privacy/local-first/) ·
-[API Key 与数据去向](https://huiai.io/aipc-up/docs/privacy/api-keys/) ·
-[故障排查](https://huiai.io/aipc-up/docs/advanced/troubleshooting/)
+| 概念 | 作用说明 |
+| :--- | :--- |
+| **项目 (Project)** | AI 当前拥有操作权限的本地真实文件夹工作空间。 |
+| **会话 (Session)** | 围绕特定目标展开的独立对话上下文，可随时归档、恢复与导出。 |
+| **AI 核心 (AI Core)** | 底层驱动 Agent 的大语言模型内核（如 Claude Code, Codex, OpenCode, Gemini CLI 等）。 |
+| **团队 (Team)** | 由多个不同专业角色的 Agent 组成的智能体群组，支持分工协作。 |
+| **本地账号 (Local Auth)** | 存储在本地用于安全加密验证的访问凭证，保护远程访问安全。 |
 
 ---
 
-## 🚀 下载安装
+## 🛡 本地优先与安全保障
 
-| 项目 | 地址 |
-| --- | --- |
-| 📥 最新安装包 | [Download AIPC UP for Windows](https://github.com/learncodesmart/AIPC-UP/releases/latest) |
-| 🏷 当前版本 | [AIPC UP v1.0.0](https://github.com/learncodesmart/AIPC-UP/releases/tag/v1.0.0) |
-| 🌐 产品官网 | [huiai.io/product](https://huiai.io/product/) |
-| 📖 帮助文档 | [huiai.io/aipc-up/docs](https://huiai.io/aipc-up/docs/) |
+AIPC UP 具备操控真实系统与执行命令的能力，在安全架构上严格遵循**本地优先与最小权限原则**：
 
-本仓库用于发布 Windows 安装包：
+* 🏠 **数据本地优先**：你的项目代码、本地文档与运行环境均完整保留在本机，绝不上传私有源码。
+* 🔐 **细粒度权限控制**：文件修改、终端命令执行、外部网络访问与键鼠控制默认需要明确授权。
+* 👁 **全流程透明可见**：所有工具调用（Tool Calls）、文件变更差异（Diff）与操作日志均清晰展示。
+* ⏯ **实时可控与干预**：随时可暂停、中断或回滚 AI 执行中的任务。
+
+*了解更多：[安全与隐私说明](https://huiai.io/aipc-up/docs/security/privacy/) · [令牌与凭证安全](https://huiai.io/aipc-up/docs/security/tokens/)*
+
+---
+
+## 🚀 下载与安装
+
+| 资源通道 | 链接地址 | 说明 |
+| :--- | :--- | :--- |
+| 📥 **最新 Windows 安装包** | [GitHub Releases Latest](https://github.com/learncodesmart/AIPC-UP/releases/latest) | 推荐下载 `.exe` 安装程序 |
+| 🏷 **当前稳定版本** | [AIPC UP v1.0.1](https://github.com/learncodesmart/AIPC-UP/releases/tag/v1.0.1) | 包含最新自动化与多 Agent 特性 |
+| 🌐 **官方产品主页** | [huiai.io/product/](https://huiai.io/product/) | 了解产品全景与功能演进 |
+| 📖 **官方在线帮助文档** | [huiai.io/aipc-up/docs/](https://huiai.io/aipc-up/docs/) | 详尽功能教程与使用指南 |
+
+---
+
+## 📚 官方帮助文档导航
+
+完整的 10 大核心专题文档已部署上线：
 
 ```text
-AIPC UP Setup <version>.exe
+AIPC UP 官方文档 (https://huiai.io/aipc-up/docs/)
+├── 🚀 开始使用: 安装启动 · 必要配置 · 第一次对话 · 能力速查
+├── 🗺️ 界面与快捷键: 主界面导览 · 快捷键速查 · 设置页地图
+├── 💬 日常对话与交互: 实时语音听写 · 悬浮置顶小窗 · 会话管理 · 输入技巧 · 权限与安全
+├── 📁 文件与项目管理: 独立文件管理器 · 项目与会话 · 工作区与 Git · 预览面板
+├── ⚡ 桌面与网页自动化: 桌面自动化助手 · 浏览器自动化 · 桌面键鼠自动化
+├── 🤖 AI 核心与工具生态: 助手中心 · 模型与供应商 · 技能扩展 · MCP 工具 · Agents
+├── 👥 团队与定时任务: 多智能体团队 · 定时任务
+├── 📱 远程与多端协同: WebUI 远程访问 · 手机扫码登录 · 通讯平台接入 · 屏幕墙
+├── 🎨 个性化与系统安全: 外观与主题 · 桌面特性 · 令牌与凭证 · 数据与隐私
+└── 💡 维护与技术支持: 新手 FAQ · 故障排查 · 版本更新 · 联系与支持
 ```
 
 ---
 
-## 📚 帮助文档导航
+## 🙏 开源致谢
 
-| 文档 | 说明 |
-| --- | --- |
-| [AIPC UP 简介](https://huiai.io/aipc-up/docs/) | 产品概览与 5 分钟上手 |
-| [安装与启动](https://huiai.io/aipc-up/docs/getting-started/install/) | 下载、安装、本地账号与主窗口确认 |
-| [第一次配置](https://huiai.io/aipc-up/docs/getting-started/first-setup/) | 慧AI / 自定义配置与第一次安全试跑 |
-| [项目与会话](https://huiai.io/aipc-up/docs/workbench/projects-sessions/) | 工作台基础概念 |
-| [浏览器自动化](https://huiai.io/aipc-up/docs/automation/browser/) | 网页操作能力 |
-| [桌面自动化](https://huiai.io/aipc-up/docs/automation/desktop/) | 本地软件操作能力 |
-| [远程访问](https://huiai.io/aipc-up/docs/remote/access/) | 手机或其他电脑访问工作台 |
-| [通讯平台](https://huiai.io/aipc-up/docs/remote/communication-platform/) | 微信 / 飞书 / Telegram 等入口 |
+AIPC UP 的发展离不开开源社区的基石与灵感，诚挚感谢以下优秀的开源项目及贡献者：
 
----
-
-## 🙏 致谢
-
-AIPC UP 的部分设计受以下开源项目启发，感谢这些项目及其贡献者：
-
-| 项目 | 说明 |
-| --- | --- |
-| [CloudCLI](https://github.com/siteboon/claudecodeui) | 面向 AI 编程代理的 Web / Mobile UI |
-| [cc switch cli](https://github.com/SaladDay/cc-switch-cli) | Claude Code、Codex、Gemini CLI 等工具的统一切换与管理 CLI |
-| [avibe-os](https://github.com/avibe-bot/avibe) | 本地优先的 Agent OS |
-| [frp](https://github.com/fatedier/frp) | 快速反向代理与内网穿透工具 |
+- [AionUi](https://github.com/aionui/aionui) - 优秀的跨平台 AI 工作台与 UI 交互基座
+- [CloudCLI](https://github.com/siteboon/claudecodeui) - 面向 AI 编程代理的 Web / Mobile 交互设计
+- [cc switch cli](https://github.com/SaladDay/cc-switch-cli) - 多 AI 编码工具切换与环境管理方案
+- [avibe-os](https://github.com/avibe-bot/avibe) - 本地优先的 Agent 架构思想
+- [frp](https://github.com/fatedier/frp) - 高性能的反向代理与内网穿透工具
 
 ---
 
 ## 🔗 相关链接
 
-- 产品官网：https://huiai.io/product/
-- 帮助文档：https://huiai.io/aipc-up/docs/
-- 慧AI 令牌：https://huiai.io/token/
-- GitHub Releases：https://github.com/learncodesmart/AIPC-UP/releases
+- **产品官网**：[https://huiai.io/product/](https://huiai.io/product/)
+- **官方帮助文档**：[https://huiai.io/aipc-up/docs/](https://huiai.io/aipc-up/docs/)
+- **慧AI 令牌中心**：[https://huiai.io/token/](https://huiai.io/token/)
+- **GitHub 源码与发布**：[https://github.com/learncodesmart/AIPC-UP](https://github.com/learncodesmart/AIPC-UP)
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ by the AIPC UP & 慧AI Team</sub>
+</p>
