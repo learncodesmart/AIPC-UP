@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>一个桌面。你的 AI Agent 们，真的在协作。</strong><br>
-  <em>让普通电脑，进化为真正的 AI 电脑 (Turn Your PC into an AI PC)</em>
+  <em>让每台电脑，都能成为 AI 电脑 (Turn Every PC into an AI PC)</em>
 </p>
 
 <p align="center">

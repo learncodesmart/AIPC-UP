@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>One Desktop. Your AI Agents, Actually Collaborating.</strong><br>
-  <em>Turn Your PC into a True AI PC</em>
+  <em>Turn Every PC into an AI PC</em>
 </p>
 
 <p align="center">
