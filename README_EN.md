@@ -13,7 +13,7 @@
 
 <p align="center">
   A <strong>Local-First AI Agent Desktop Workspace</strong> for Windows.<br>
-  Solo tasks, multi-agent teamwork, desktop & browser automation, full-disk file management, and 24/7 remote scheduling.
+  Solo tasks, multi-agent teamwork, Screen Wall visual monitoring, desktop & browser automation, full-disk file management, and 24/7 remote scheduling.
 </p>
 
 <p align="center">
@@ -76,6 +76,7 @@ It allows AI Agents to live directly on your PC. Beyond understanding natural la
 
 - 👥 **Multi-Agent Teamwork**: Group multiple specialized AI Agents (architecture, coding, UI design, testing) to collaborate concurrently on complex projects.
 - 🖥 **Full Desktop & Browser Automation**: Autonomously interact with desktop software, automate web scraping, form filling, and cross-application data pipelines.
+- 📺 **Screen Wall Visual Monitoring**: Real-time visual dashboard capturing your primary desktop screen for monitoring automated routines and verifying remote assignments.
 - 🗂 **Local File & Project Ownership**: Directly inspect project code, make modifications, run terminal commands, and view rich real-time previews.
 - ⏰ **24/7 Always-On & Scheduled Tasks**: Schedule automated workflows to summarize daily reports, monitor metrics, or execute background routines around the clock.
 - 📱 **Secure Remote Dispatch**: Command your desktop workspace on the go via mobile browsers, tablets, or social chat channels (WeChat, Feishu/Lark, Telegram).
@@ -113,18 +114,28 @@ All project files and runtime environments **remain strictly on your local machi
       Full-disk file manager and project workspace. Review Git diffs, semantic codebase navigation, and live preview panels for HTML, images, and documents.
     </td>
     <td>
-      <h3>⏰ Scheduled Tasks & 24/7 Operations</h3>
-      Standard Cron scheduling and automated background assistants. Wake up your PC to perform routine maintenance, generate analytics, and dispatch reports automatically.
+      <h3>📺 Screen Wall & Live Monitoring</h3>
+      Dedicated visual monitoring screen. Capture high-definition desktop snapshots in real time with 1s/3s/5s/10s polling and smart auto-suspend; visually inspect agent automation on the go.
     </td>
   </tr>
   <tr>
     <td>
+      <h3>⏰ Scheduled Tasks & 24/7 Operations</h3>
+      Standard Cron scheduling and automated background assistants. Wake up your PC to perform routine maintenance, generate analytics, and dispatch reports automatically.
+    </td>
+    <td>
       <h3>🎙 Real-Time Voice & Mini Window</h3>
       Instant speech-to-text with bilingual (Chinese/English) support; always-on-top Mini Floating Window for effortless access from anywhere on your desktop.
     </td>
+  </tr>
+  <tr>
     <td>
       <h3>📱 Secure Remote Access & Channels</h3>
       Built-in encrypted tunneling. Access your desktop workspace via WebUI on mobile/tablet, or dispatch tasks directly through <b>WeChat, Feishu, and Telegram</b>.
+    </td>
+    <td>
+      <h3>🛡 Local-First & Data Sovereignty</h3>
+      Your source code, private documents, and execution environments remain 100% on your local machine. Granular authorization safeguards personal and enterprise data assets.
     </td>
   </tr>
 </table>
@@ -140,11 +151,11 @@ All project files and runtime environments **remain strictly on your local machi
 | 🧑‍💻 **Code Analysis & Automated Programming** | Workspace + Claude / Codex / OpenCode Agents | [Workspace and Git](https://huiai.io/aipc-up/docs/en/files/workspace/) |
 | 🌐 **Web Scraping & Form Automation** | Browser Automation | [Browser Automation](https://huiai.io/aipc-up/docs/en/automation/browser/) |
 | 🖱️ **Control Desktop Apps & Keyboard/Mouse** | Desktop Control (Windows native automation) | [Desktop Control](https://huiai.io/aipc-up/docs/en/automation/desktop/) |
+| 📺 **Remote Desktop Monitoring & Live Audit** | Screen Wall (Visual Remote Desktop Screen) | [Screen Wall](https://huiai.io/aipc-up/docs/en/remote/screen-wall/) |
 | 👥 **Complex Task Breakdown & Multi-Agent Teams** | Agent Teams | [Agent Teams](https://huiai.io/aipc-up/docs/en/team/overview/) |
 | ⏰ **Routine Checks & Automated Reports** | Scheduled Tasks (Cron Workflows) | [Scheduled Tasks](https://huiai.io/aipc-up/docs/en/tasks/scheduled/) |
 | 🎙 **Fast Voice Task Assignment** | Realtime Voice Input | [Realtime Voice Input](https://huiai.io/aipc-up/docs/en/chat/voice/) |
 | 📱 **Remote Mobile Access & Chat Integration** | WebUI Remote Access / WeChat / Feishu / Telegram | [Remote Access (WebUI)](https://huiai.io/aipc-up/docs/en/remote/webui/) |
-| 🖥 **Background Multi-Task Screen Monitoring** | Screen Wall (Remote Desktop Monitoring) | [Screen Wall](https://huiai.io/aipc-up/docs/en/remote/screen-wall/) |
 
 *For the comprehensive task guide, check out [Capabilities at a Glance](https://huiai.io/aipc-up/docs/en/getting-started/capabilities/).*
 
@@ -189,6 +200,7 @@ Inspect this folder in read-only mode and summarize what files it contains in th
 | :--- | :--- |
 | **Project** | The local directory workspace where the AI agent is authorized to inspect and operate. |
 | **Session** | An isolated conversational context dedicated to a specific goal, with full history and export capabilities. |
+| **Screen Wall** | A dedicated visual dashboard capturing real-time desktop screen snapshots for remote inspection and automation audit. |
 | **AI Core** | The underlying LLM engine driving the agent (Claude Code, Codex, OpenCode, Gemini CLI, etc.). |
 | **Team** | A collaborative group composed of multiple specialized AI agents working together in the same workspace. |
 | **Local Account** | Locally stored encrypted authentication credentials used for secure remote WebUI logins. |
@@ -213,7 +225,7 @@ AIPC UP can perform real system operations. It adheres strictly to **local-first
 | Channel | Link | Notes |
 | :--- | :--- | :--- |
 | 📥 **Latest Windows Installer** | [GitHub Releases Latest](https://github.com/learncodesmart/AIPC-UP/releases/latest) | Official `.exe` installer |
-| 🏷 **Current Release** | [AIPC UP v1.0.1](https://github.com/learncodesmart/AIPC-UP/releases/tag/v1.0.1) | Includes latest multi-agent & automation features |
+| 🏷 **Current Release** | [AIPC UP v1.0.1](https://github.com/learncodesmart/AIPC-UP/releases/tag/v1.0.1) | Includes latest multi-agent, Screen Wall & automation features |
 | 🌐 **Official Product Page** | [huiai.io/product/](https://huiai.io/product/) | Explore product roadmap & features |
 | 📖 **Online Documentation** | [huiai.io/aipc-up/docs/en/](https://huiai.io/aipc-up/docs/en/) | Complete user manuals & guides |
 
