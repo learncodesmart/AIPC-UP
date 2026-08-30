@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <strong>一个桌面。你的 AI Agent 们，真的在协作。</strong><br>
-  <em>让每台电脑，都能成为 AI 电脑 (Turn Every PC into an AI PC)</em>
+  <strong>让每台电脑，都能成为 AI 电脑 (Turn Every PC into an AI PC)</strong><br>
+  <em>一个桌面。你的 AI Agent 们，真的在协作。</em>
 </p>
 
 <p align="center">
