@@ -225,7 +225,6 @@ AIPC UP can perform real system operations. It adheres strictly to **local-first
 | Channel | Link | Notes |
 | :--- | :--- | :--- |
 | 📥 **Latest Windows Installer** | [GitHub Releases Latest](https://github.com/learncodesmart/AIPC-UP/releases/latest) | Official `.exe` installer |
-| 🏷 **Current Release** | [AIPC UP v1.0.1](https://github.com/learncodesmart/AIPC-UP/releases/tag/v1.0.1) | Includes latest multi-agent, Screen Wall & automation features |
 | 🌐 **Official Product Page** | [huiai.io/product/](https://huiai.io/product/) | Explore product roadmap & features |
 | 📖 **Online Documentation** | [huiai.io/aipc-up/docs/en/](https://huiai.io/aipc-up/docs/en/) | Complete user manuals & guides |
 

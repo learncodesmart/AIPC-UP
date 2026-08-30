@@ -225,7 +225,6 @@ AIPC UP 具备操控真实系统与执行命令的能力，在安全架构上严
 | 资源通道 | 链接地址 | 说明 |
 | :--- | :--- | :--- |
 | 📥 **最新 Windows 安装包** | [GitHub Releases Latest](https://github.com/learncodesmart/AIPC-UP/releases/latest) | 推荐下载 `.exe` 安装程序 |
-| 🏷 **当前稳定版本** | [AIPC UP v1.0.1](https://github.com/learncodesmart/AIPC-UP/releases/tag/v1.0.1) | 包含最新自动化、屏幕墙与多 Agent 特性 |
 | 🌐 **官方产品主页** | [huiai.io/product/](https://huiai.io/product/) | 了解产品全景与功能演进 |
 | 📖 **官方在线帮助文档** | [huiai.io/aipc-up/docs/](https://huiai.io/aipc-up/docs/) | 详尽功能教程与使用指南 |
 
