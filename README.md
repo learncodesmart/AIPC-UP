@@ -255,9 +255,6 @@ AIPC UP 官方文档 (https://huiai.io/aipc-up/docs/)
 AIPC UP 的发展离不开开源社区的基石与灵感，诚挚感谢以下优秀的开源项目及贡献者：
 
 - [AionUi](https://github.com/aionui/aionui) - 优秀的跨平台 AI 工作台与 UI 交互基座
-- [CloudCLI](https://github.com/siteboon/claudecodeui) - 面向 AI 编程代理的 Web / Mobile 交互设计
-- [cc switch cli](https://github.com/SaladDay/cc-switch-cli) - 多 AI 编码工具切换与环境管理方案
-- [avibe-os](https://github.com/avibe-bot/avibe) - 本地优先的 Agent 架构思想
 - [frp](https://github.com/fatedier/frp) - 高性能的反向代理与内网穿透工具
 
 ---

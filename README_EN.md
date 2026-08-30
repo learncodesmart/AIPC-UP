@@ -255,9 +255,6 @@ AIPC UP Documentation (https://huiai.io/aipc-up/docs/en/)
 AIPC UP is built upon the ingenuity and foundations of the open-source community. Special thanks to these exceptional projects and their contributors:
 
 - [AionUi](https://github.com/aionui/aionui) - Excellent cross-platform AI desktop workspace foundation
-- [CloudCLI](https://github.com/siteboon/claudecodeui) - Modern Web / Mobile UI for AI coding agents
-- [cc switch cli](https://github.com/SaladDay/cc-switch-cli) - Multi-engine AI coding tool manager
-- [avibe-os](https://github.com/avibe-bot/avibe) - Local-first agent operating architecture
 - [frp](https://github.com/fatedier/frp) - Fast reverse proxy for secure tunneling
 
 ---
