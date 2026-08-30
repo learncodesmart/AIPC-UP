@@ -6,14 +6,15 @@
   <img src="./assets/logo-512.png" alt="AIPC UP Logo" width="112">
 </p>
 
+<h1 align="center">Turn Every PC into an AI PC</h1>
+
 <p align="center">
-  <strong>Turn Every PC into an AI PC</strong><br>
-  <em>One Desktop. Your AI Agents, Actually Collaborating.</em>
+  <strong>One Desktop. Your AI Agents, Actually Collaborating.</strong>
 </p>
 
 <p align="center">
   A <strong>Local-First AI Agent Desktop Workspace</strong> for Windows.<br>
-  Solo tasks, multi-agent teamwork, Screen Wall visual monitoring, desktop & browser automation, full-disk file management, and 24/7 remote scheduling.
+  Solo Tasks · Multi-Agent Teams · Screen Wall Monitoring · Desktop & Browser Automation · Full-Disk File Management · 24/7 Remote Dispatch
 </p>
 
 <p align="center">

@@ -6,14 +6,15 @@
   <img src="./assets/logo-512.png" alt="AIPC UP Logo" width="112">
 </p>
 
+<h1 align="center">让每台电脑，都能成为 AI 电脑</h1>
+
 <p align="center">
-  <strong>让每台电脑，都能成为 AI 电脑 (Turn Every PC into an AI PC)</strong><br>
-  <em>一个桌面。你的 AI Agent 们，真的在协作。</em>
+  <strong>一个桌面。你的 AI Agent 们，真的在协作。</strong>
 </p>
 
 <p align="center">
   安装在 Windows 上的<strong>本地优先 AI 工作台</strong><br>
-  单兵作战、团队组队、屏幕墙实时监工、桌面/浏览器自动化、全盘文件管理，以及 24/7 远程指挥调度
+  单兵作战 · 团队组队 · 屏幕墙实时监工 · 桌面/浏览器自动化 · 全盘文件管理 · 24/7 远程指挥调度
 </p>
 
 <p align="center">
